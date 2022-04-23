@@ -23,8 +23,8 @@
   <a href="https://https://www.linkedin.com/in/jo%C3%A3o-nascimento-725785236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ![Snake animation](https://github.com/DevOfInfity/DevOfInfity/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+ 
+  </div>
 
 - 🔭 Hoje trabalho com Front-end...
 - 🌱 Estudando React e Node.Js...
