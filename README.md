@@ -26,3 +26,8 @@
 - 🔭 Hoje trabalho com Front-end...
 - 🌱 Estudando React e Node.Js...
 - 📫 Contato: devnascimento@hotmail.com
+
+  
+   
+ 
+  ![Snake animation](https://github.com/DevOfInfinity/DevOfInfinity/blob/output/github-contribution-grid-snake.svg)
