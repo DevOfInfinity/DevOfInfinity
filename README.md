@@ -1,8 +1,8 @@
 ### Oi eu sou o João Nascimento 👋
 
 
-  <a href="https://github.com/DevOfInfinity">
-    < a  href =" https://github.com/anuraghazra/github-readme-stats " > 
+  
+    < a  href =" https://github.com/DevOfInfinity/github-readme-stats " > 
   < img  align =" center " src =" https://github-readme-stats.vercel.app/api/pin/ ?username=DevOfInfinity&repo=github-readme-stats " />
  </ a > 
 < a  href =" https://github.com/anuraghazra/convoychat " > 
