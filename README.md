@@ -1,10 +1,14 @@
 ### Oi eu sou o João Nascimento 👋
 
-<div align="center">
+
   <a href="https://github.com/DevOfInfinity">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevOfInfinity&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOfInfinity&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+    < a  href =" https://github.com/anuraghazra/github-readme-stats " > 
+  < img  align =" center " src =" https://github-readme-stats.vercel.app/api/pin/ ?username=DevOfInfinity&repo=github-readme-stats " />
+ </ a > 
+< a  href =" https://github.com/anuraghazra/convoychat " > 
+  < img  align =" center " src =" https://github -readme-stats.vercel.app/api/pin/?username=DevOfInfinity&repo=convoychat " />
+ </ a>
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="João-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
