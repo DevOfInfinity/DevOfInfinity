@@ -6,7 +6,7 @@
 
   ![Snake animation](https://github.com/DevOfInfinity/DevOfInfinity/blob/output/github-contribution-grid-snake.svg)
 
-"#Statistics:"
+<p><strong>"#Statistics:"</strong></p>
 <div align="center">
   <a href="https://github.com/DevOfInfinity">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevOfInfinity&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
