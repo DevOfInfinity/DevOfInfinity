@@ -7,6 +7,7 @@
   ![Snake animation](https://github.com/DevOfInfinity/DevOfInfinity/blob/output/github-contribution-grid-snake.svg)
 
 <p><strong>"#Statistics:"</strong></p>
+##
 <div align="center">
   <a href="https://github.com/DevOfInfinity">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevOfInfinity&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -21,7 +22,10 @@
   <a href="https://https://www.linkedin.com/in/jo%C3%A3o-nascimento-725785236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   
-  "Languages and tools:"
+  
+  <p><strong>"Languages and tools:"</strong></p>
+  ##
+  <div>
   <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="João-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="João-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -32,13 +36,7 @@
   </div>
   
   ##
- 
 
 
 - 🌱 Estudando Pós-Graduação Engenharia de Software...
 - 📫 Contato: devnascimento@hotmail.com
-
-  
-   
- 
-
